@@ -14,8 +14,8 @@ haikus = [
     basicHaiku()
 ]
 
-function basicHaiku2(){
-    
+function Stundent2haikyu(){
+    return ["Toward those short trees","Olgun is better dan milan 0_0","On a day in spring."]
 }
 
 
