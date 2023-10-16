@@ -14,6 +14,14 @@ haikus = [
     basicHaiku()
 ]
 
+function basicHaiku2(){
+    
+}
+
+
+
+
+
 function randomHaiku()
 {
 
